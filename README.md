@@ -6,11 +6,10 @@ I have a closed git for projects from the company I work for if you want to chec
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Projects I'm currently working on:
-- [Wowness Club](https://wownessclub.com/), ]
-- [Sax Department Store](https://saxdepartment.com/),
+- [Wowness Club](https://wownessclub.com/)
+- [Sax Department Store](https://saxdepartment.com/)
 - [Pioneer Inter](https://pioneerinter.com)
 
-  
 - 🌱 I’m currently learning **Go design patterns, Advanced Javascript**
 
 - 💬 Ask me about **Laravel, PHP, Go, API's**
