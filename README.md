@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anderson Cardoso</h1>
-<h3 align="center">Hi, I'm Anderson Cardoso, I'm 21 years old.
-I'm currently working as a full-stack developer with a focus on the back-end. Make yourself at home and welcome to my profile!<br>
-Github Enterprise: https://github.com/Mamonhaa</h3>
+<h3 align="center"> I'm 21 years old.
+Make yourself at home and welcome to my profile!<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Projects I'm currently working on:
-- [Wowness Club](https://wownessclub.com/)
-- [Sax Department Store](https://saxdepartment.com/)
-- [Pioneer Inter](https://pioneerinter.com)
-
-- 🌱 I’m currently learning **Go design patterns, Advanced Javascript**
+- 🌱 I'm currently working as a full-stack developer with a focus on the back-end at a regional development company.
+  
+- 🎓 Studying Software Engineering;
 
 - 💬 Ask me about **Laravel, PHP, Go, API's**
 
 - 📫 How to reach me **andersoncardoso302@hotmail.com**
 
+- Check my portifolio:
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anderson-c-da-silva-579216122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-c-da-silva-579216122/" height="30" width="40" /></a>
