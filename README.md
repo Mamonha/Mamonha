@@ -2,7 +2,7 @@
 <h3 align="center">Hi, I'm Anderson Cardoso, I'm 21 years old and I'm from Foz do Iguaçu, Brazil.
 I'm currently working as a full-stack developer with a focus on the back-end at a web application development company in the region. 
 Check out some of the projects I've participated in and contributed to! Make yourself at home and welcome to my profile! 
-I have a closed git for projects from the company I work for if you want to check out my contributions: https://github.com/Mamonhaa</h3>
+Github Enterprise: https://github.com/Mamonhaa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Projects I'm currently working on:
