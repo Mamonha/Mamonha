@@ -4,11 +4,6 @@ I'm currently working as a full-stack developer with a focus on the back-end at 
 Check out some of the projects I've participated in and contributed to! Make yourself at home and welcome to my profile! 
 I have a closed git for projects from the company I work for if you want to check out my contributions: https://github.com/Mamonhaa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamonha&label=Profile%20views&color=0e75b6&style=flat" alt="mamonha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamonha" alt="mamonha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Wowness Club](https://wownessclub.com/)
 
