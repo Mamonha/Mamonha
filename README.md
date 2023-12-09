@@ -5,11 +5,10 @@ Check out some of the projects I've participated in and contributed to! Make you
 I have a closed git for projects from the company I work for if you want to check out my contributions: https://github.com/Mamonhaa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Wowness Club](https://wownessclub.com/)
+- 🔭 Projects I'm currently working on: [Wowness Club](https://wownessclub.com/), [Sax Department Store](https://saxdepartment.com/),[Pioneer Inter](https://saxdepartment.com/)https://pioneerinter.com/)
 
+  
 - 🌱 I’m currently learning **Go design patterns, Advanced Javascript**
-
-- 🔭 I’m currently working on [Sax Department Store](https://saxdepartment.com/)
 
 - 💬 Ask me about **Laravel, PHP, Go, API's**
 
