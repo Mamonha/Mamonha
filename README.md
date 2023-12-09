@@ -8,7 +8,7 @@ I have a closed git for projects from the company I work for if you want to chec
 - 🔭 Projects I'm currently working on:
 - [Wowness Club](https://wownessclub.com/), ]
 - [Sax Department Store](https://saxdepartment.com/),
-- [Pioneer Inter](https://saxdepartment.com/)https://pioneerinter.com/)
+- [Pioneer Inter](https://pioneerinter.com)
 
   
 - 🌱 I’m currently learning **Go design patterns, Advanced Javascript**
