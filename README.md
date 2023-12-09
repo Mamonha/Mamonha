@@ -2,7 +2,7 @@
 Make yourself at home and welcome to my profile!<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I'm currently working as a full-stack developer with a focus on the back-end at a regional development company.
+- 💻 I'm currently working as a full-stack developer with a focus on the back-end at a regional development company.
   
 - 🎓 Studying Software Engineering;
 
