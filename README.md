@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anderson Cardoso</h1>
 <h3 align="center">Hi, I'm Anderson Cardoso, I'm 21 years old and I'm from Foz do Iguaçu, Brazil.
-I'm currently working as a full-stack developer with a focus on the back-end. Make yourself at home and welcome to my profile! 
+I'm currently working as a full-stack developer with a focus on the back-end. Make yourself at home and welcome to my profile!<br>
 Github Enterprise: https://github.com/Mamonhaa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
