@@ -11,8 +11,6 @@ Make yourself at home and welcome to my profile!<br>
 - 📫 How to reach me **andersoncardoso302@hotmail.com**
   
 - 📰 Check my portfolio: https://mamonha.github.io/
-
-- 💼 Enterprise github: https://github.com/Mamonhaa
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
