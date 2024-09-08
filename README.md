@@ -6,7 +6,7 @@ Make yourself at home and welcome to my profile!<br>
   
 - 🎓 Studying Software Engineering;
 
-- 💬 Ask me about **Laravel, PHP, Go, C#, .NET, API's**
+- 💬 Ask me about **Laravel, PHP, Go, C#, .NET, SPRING, JAVA, API's**
 
 - 📫 How to reach me **andersoncardoso302@hotmail.com**
   
